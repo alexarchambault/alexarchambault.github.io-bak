@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Blog</title>
+    <link href="https://alexarchambault.github.io/atom.xml" rel="self" />
+    <link href="https://alexarchambault.github.io" />
+    <id>https://alexarchambault.github.io/atom.xml</id>
+    <author>
+        <name>Alexandre Archambault</name>
+        <email>alexandre.archambault@gmail.com</email>
+    </author>
+    <updated>2014-11-26T00:00:00Z</updated>
+    <entry>
+    <title>Talk at the Paris Scala User Group #49 (Nov 2014)</title>
+    <link href="https://alexarchambault.github.io/posts/2014-11-26-psug-49.html" />
+    <id>https://alexarchambault.github.io/posts/2014-11-26-psug-49.html</id>
+    <published>2014-11-26T00:00:00Z</published>
+    <updated>2014-11-26T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div class="info">
+  26 November 2014
+</div>
+
+<a href="/posts/2014-11-26-psug-49.html"><h1>Talk at the Paris Scala User Group #49 (Nov 2014)</h1></a>
+
+<p>I gave a talk yesterday at the <a href="https://groups.google.com/forum/#!forum/paris-scala-user-group">Paris Scala User Group</a>, whose title was “<em>{Introduction to | writing} dependent functions (in Scala)</em>”.</p>
+<p><a href="/talks/psug49/">Slides</a> | <a href="https://www.youtube.com/watch?v=TvaCc4dGbf0">Video</a> (captured by <a href="http://www.xebia.tv/youtube">Xebia TV</a>, thanks to them)</p>
+<p>Thanks again to the organizers from <a href="http://www.xebia.fr/">Xebia</a> and the Paris Scala User Group, <a href="https://twitter.com/aagahi">Alexis Agahi</a> and <a href="https://twitter.com/benoit_lemoine">Benoit Lemoine</a>, and to all the attendees for their great feedback and questions.</p>
+
+
+<p id="readmore"><a href="/posts/2014-11-26-psug-49.html">Read more</a></p>
+
+<!-- <p class="twittershare"><a href="https://twitter.com/share" class="twitter-share-button" data-via="alxarchambault">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p> -->
+]]></summary>
+</entry>
+
+</feed>

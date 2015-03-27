@@ -1,0 +1,3 @@
+[submodule "talks/psug49"]
+	path = talks/psug49
+	url = https://github.com/alexarchambault/psug49.git
